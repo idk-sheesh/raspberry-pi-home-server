@@ -4,6 +4,12 @@ A personal server I set up on a Raspberry Pi to host my projects, collect sensor
 
 I use it alongside my embedded projects, including [Plant Tracker](https://github.com/idk-sheesh/plant-tracker). It has also been a way to learn Linux administration beyond getting a service to start once.
 
+## Dashboard preview
+
+Demo view of the hub. All names, readings and backup results shown below are fictitious.
+
+![Hub dashboard with fictional data](assets/hub-demo.jpg)
+
 ## What it does
 
 - Runs personal services with Docker Compose and persistent NVMe storage.
